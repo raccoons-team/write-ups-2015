@@ -2,7 +2,7 @@
 
 **Category:** Embedded
 **Points:** 200
-**Solves:** 16
+**Solves:** 17
 **Description:**
 
 > Could you please decode this for me? KTHXBYE!
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/raccoons-team/ctf/tree/master/2015-12-27-32c3/traces_embedded_200>

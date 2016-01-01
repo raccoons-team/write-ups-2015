@@ -2,7 +2,7 @@
 
 **Category:** Pwn
 **Points:** 250
-**Solves:** 6
+**Solves:** 7
 **Description:**
 
 > Extract some flag from ssh://eve@136.243.194.40
@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/stephenR/5d0987531e2b3ab3a730>

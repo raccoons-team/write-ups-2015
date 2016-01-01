@@ -2,7 +2,7 @@
 
 **Category:** Pwn
 **Points:** 400
-**Solves:** 15
+**Solves:** 16
 **Description:**
 
 > Connect to 136.243.194.52 1024 and get a fresh instance spawned for you. You're gonna need this.
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://rzhou.org/~ricky/32c3/ranger/>
